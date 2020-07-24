@@ -1,16 +1,12 @@
-# gallery
+# Flutter Gallery
 
-A new Flutter project.
 
-## Getting Started
+Proyecto de Flutter para mostrar productos con imagen, nombre y precio. 
 
-This project is a starting point for a Flutter application.
+Para ello se realiza CRUD a Firebase , subir imágenes a Cloudinary , seleccionar fotos de la galería así como tomar fotos con la cámara. 
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Image1](docs/img/image1.png) 
+![Image2](docs/img/image2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
